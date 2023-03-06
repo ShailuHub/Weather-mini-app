@@ -7,10 +7,5 @@ backend/.DS_Store
 fronted/node_modules
 
 
-# production
-fronted/build
 
-# misc
-fronted/.DS_Store
-fronted/.env
-
+**/.env
