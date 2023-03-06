@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Poppins&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.active {
+  color: #7775ca;
+  z-index: -40px;
+}
+
+body {
+  background-color: #eeedfb;
+  font-family: Poppins;
+}
